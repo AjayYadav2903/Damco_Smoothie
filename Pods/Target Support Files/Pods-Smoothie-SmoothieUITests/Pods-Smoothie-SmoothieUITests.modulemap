@@ -1,0 +1,6 @@
+framework module Pods_Smoothie_SmoothieUITests {
+  umbrella header "Pods-Smoothie-SmoothieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
