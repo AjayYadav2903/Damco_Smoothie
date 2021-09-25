@@ -1,4 +1,4 @@
-# Round 2 : IOS Assignment FeedList (Damco)
+# Round 2 : IOS Assignment FeedList Smoothie (Damco)
 
 
 
