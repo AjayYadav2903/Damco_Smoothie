@@ -1,4 +1,4 @@
-# Round 2 : IOS Assignment (CovidInfo)
+# Round 2 : IOS Assignment FeedList (Damco)
 
 
 
@@ -13,6 +13,7 @@ The debugging process will be complicated when we have complex data bindings.
 Easy for separate unit testing and code is event-driven.
 
 
-2 - Chart -> Implemented HighChart Library for show the case recoverd, confirmed, deaths.(we can use more chart like PIchart, Barcharts etc)
+2 - Feed URL -> get_feed_items JSON File has uploaded on the server by using git. 
 
+3 - Showing all (picture, video, text, and web links), Video we can work more.
 3 - Configration -> Xcode 12.2, Swift 5, iOS 13+
